@@ -1,4 +1,9 @@
 #  SIVIA - Sistema de Gestión de Accidentes de Tránsito
+##Nota importante
+Nuestro grupo tuvo algunos problemas con la implementación del proyecto en GitHub, por lo que se optó por utilizar Whatsapp para compartir el proyecto el cual nos dividimos de la siguiente forma:
+Oscar Araus: Backend y frontend
+Joan Monge: Conexión con MongoDB Atlas y realiza el backend
+Kevin Oviedo: Frontend
 ## Descripción
 SIVIA es un sistema web diseñado para gestionar información relacionada con accidentes de tránsito.  
 Permite administrar conductores, vehículos, víctimas, usuarios, condiciones viales, infraestructura, factores de riesgo, operativos, reportes policiales y seguros.  
